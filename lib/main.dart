@@ -24,7 +24,7 @@ class BusniessCardApp extends StatelessWidget {
               ),
             ),
             Text(
-              'Tharwat Samy',
+              'Tharwat Samyy',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 32,
